@@ -40,7 +40,7 @@ int main()
 	while (t--)
 	{
 		char in[200];
-		scanf("%s", &in);
+		scanf("%s", in);
 		printf(isPattern(in) ? "YES\n" : "NO\n");
 	}
 }
