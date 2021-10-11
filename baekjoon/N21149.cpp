@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef long long ll;
 pair<double, double> in[5];
 double ccw(int a, int b, int c)
 {
